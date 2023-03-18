@@ -1,0 +1,37 @@
+body {
+    padding-top: 80px;
+    min-height: 1400px;
+    margin-bottom: 100px;
+    clear: both;
+ }
+
+ .navbar{
+  margin-bottom: 100px;
+ }
+
+@media (max-width: 979px) {
+    body {
+      padding-top: 0px;
+    }
+  }
+
+footer{
+  margin-top: 100px;
+}
+  
+.contact-info{
+  min-height: 600px;
+}
+
+.login{
+  min-height: 600px;
+}
+
+.register{
+  min-height: 600px;
+}
+
+.services{
+  min-height: 600px;
+  margin-top: 80px;
+}
